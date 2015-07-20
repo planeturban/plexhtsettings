@@ -1,0 +1,16 @@
+<keymap>
+	<global>
+		<remote>
+		</remote>
+	</global>
+	<fullscreenvideo>
+		<remote>
+			<guide>info</guide>
+			<key id=100>info</key>
+			<red>ShowTime</red>
+			<green>NextSubtitle</green>
+			<yellow>ShowSubtitles</yellow>
+			<blue>AudioNextLanguage</blue>
+		</remote>
+	</fullscreenvideo>
+</keymap>
