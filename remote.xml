@@ -1,6 +1,12 @@
 <keymap>
 	<global>
 		<remote>
+			<!-- TV -->
+			<red>ActivateWindow(MyVideoFiles,plexserver://0e98570e4824b85637e0d70d7b275d725e3b2294/library/sections/3/all,return)</red>
+			<!-- Movies -->
+			<green>ActivateWindow(MyVideoFiles,plexserver://0e98570e4824b85637e0d70d7b275d725e3b2294/library/sections/4/all,return)</green>
+			<return>PreviousMenu</return>
+			<guide>ContextMenu</guide>
 		</remote>
 	</global>
 	<fullscreenvideo>
@@ -13,4 +19,7 @@
 			<blue>AudioNextLanguage</blue>
 		</remote>
 	</fullscreenvideo>
+	<Home>
+	</Home>
+
 </keymap>
